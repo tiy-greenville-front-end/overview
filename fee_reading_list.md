@@ -33,7 +33,7 @@ These books are beautiful and give the web developer beginer some entry level de
 
  * [The Mythical Man Month](https://github.com/tiy-greenville-front-end-fall-2016/overview/tree/master/assets/MythicalManMonth.pdf)
  
- [Here's a 16 page excerpt](MythicalManMonth.pdf) provided from Drexel University's CS451 Software Engineering class.
+ 	[Here's a 16 page excerpt](MythicalManMonth.pdf) provided from Drexel University's CS451 Software Engineering class.
  
  * [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
  
@@ -41,7 +41,7 @@ These books are beautiful and give the web developer beginer some entry level de
  
  * [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)
  
- Explains what the code you are writing is actually doing and how a CPU actually executes your code.
+ 	Explains what the code you are writing is actually doing and how a CPU actually executes your code.
  
  * [The Inmates Are Running the Asylum](https://www.amazon.com/Inmates-Are-Running-Asylum-Products/dp/0672326140)
  

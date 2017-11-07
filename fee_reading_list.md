@@ -22,7 +22,8 @@ These books are beautiful and give the web developer beginer some entry level de
 	Note: Code Complete is all about Software Craftsmanship. It deals with how to write code that isn't garbage. Treat this as a reference and read the chapters that apply to issues that you're facing on the job. I got my first big promotion after applying concepts from just the first nine chapters.
  	
  * [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book.html)  
- 	SICP is all about abstractions and general problem solving. [Why SICP Matters](https://people.eecs.berkeley.edu/~bh/sicp.html)
+ 	
+ 	SICP is all about abstractions and general problem solving. One look at this book and you might think "No way am I reading that". From Berkely: [Why SICP Matters](https://people.eecs.berkeley.edu/~bh/sicp.html)
  	
  * [The Art of SQL](https://www.amazon.com/Art-SQL-Stephane-Faroult/dp/0596008945)  
 

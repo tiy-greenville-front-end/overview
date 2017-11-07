@@ -10,8 +10,8 @@ Don't try to read everything all at once. Spend 2 years reading and applying the
 
 These books are beautiful and give the web developer beginer some entry level details. At this point you know all of this, but if you have friends that ask to learn web development I would recommend these:
 
- * HTML & CSS (Jon Duckett)
- * JavaScript & jQuery (Jon Duckett)
+ * [HTML & CSS (Jon Duckett)](https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)
+ * [JavaScript & jQuery (Jon Duckett)](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/ref=pd_lpo_sbs_14_t_1?_encoding=UTF8&psc=1&refRID=FC4GCT5K43083FZKY136)
 
 ## After Graduation
 

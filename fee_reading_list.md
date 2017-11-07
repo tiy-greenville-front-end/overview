@@ -48,7 +48,7 @@ These books are beautiful and give the web developer beginer some entry level de
 
 ### Soft Skills
 
- * [The Joel Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
+ * [The Joel Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) In general, Joel's blog is excellent.
  * [Death By Meeting](https://www.amazon.com/Death-Meeting-Leadership-Solving-Business/dp/0787968056)
  * [The Five Dysfunctions of a Team](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756/ref=pd_lpo_sbs_14_img_0?_encoding=UTF8&psc=1&refRID=QCSQEZBR0AEYNH4HY69Y)
  * [The Effective Executive](https://www.amazon.com/Effective-Executive-Definitive-Harperbusiness-Essentials/dp/0060833459/ref=pd_lpo_sbs_14_img_0?_encoding=UTF8&psc=1&refRID=GCZ4A806EVYZ2MQ54W32)

@@ -33,7 +33,7 @@ These books are beautiful and give the web developer beginer some entry level de
 
  * [The Mythical Man Month](https://github.com/tiy-greenville-front-end-fall-2016/overview/tree/master/assets/MythicalManMonth.pdf)
  
- 	[Here's a 16 page excerpt](MythicalManMonth.pdf) provided from Drexel University's CS451 Software Engineering class.
+ 	[Here's a 16 page excerpt](assets/MythicalManMonth.pdf) provided from Drexel University's CS451 Software Engineering class.
  
  * [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
  

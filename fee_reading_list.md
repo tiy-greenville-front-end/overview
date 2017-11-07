@@ -1,10 +1,14 @@
-# FEE Reading List
+# Software Engineering Reading List
 
-These books will not make you an amazing programmer. However, writting lots of code where you apply concepts from them probably will. Many of these books taught be concepts that I implimented on the job, which often resulted in a promotion or pay raise.
+These books will not make you an amazing programmer. However, writting lots of code where you apply concepts from them probably will. Many of these books taught me concepts that I implimented on the job, which often resulted in a promotion or pay raise.
 
-Don't try to read everything all at once. Spend 2 years reading and applying the concepts from the books on this list. The list is not in any particular order, but they appear to be roughly in the order I read them.
+This list does NOT include books like [JavaScript the Good Parts](http://shop.oreilly.com/product/9780596517748.do) or [Two Scoops of Django](https://www.amazon.com/Two-Scoops-Django-Best-Practices/dp/0981467342), though I believe you should include some language/framework specific books based on what technologies you end up working with. Instead, this list is designed to be foundational for a career as a software engineer. Many of these books are part of computer science curriculum at Drexel, MIT, and Berkeley.
+
+Don't try to read everything all at once. Spend 2 years reading and applying the concepts from the books on this list. The list is not in any particular order, but as I look over the list, they appear to be roughly in the order I read them.
 
 ## Getting Started
+
+These books are beautiful and give the web developer beginer some entry level details. At this point you know all of this, but if you have friends that ask to learn web development I would recommend these:
 
  * HTML & CSS (Jon Duckett)
  * JavaScript & jQuery (Jon Duckett)
@@ -22,13 +26,13 @@ Don't try to read everything all at once. Spend 2 years reading and applying the
  	
  * [The Art of SQL](https://www.amazon.com/Art-SQL-Stephane-Faroult/dp/0596008945)  
 
- 	Make this your second book on SQL. After reading this book I optimized a few queries with techniquies from this book I got a serious raise.
+ 	Make this your second book on SQL.
 
  * [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
 
  * [The Mythical Man Month](https://github.com/tiy-greenville-front-end-fall-2016/overview/tree/master/assets/MythicalManMonth.pdf)
  
- I got promoted to a team lead after applying principals from this book.
+ [Here's a 16 page excerpt](MythicalManMonth.pdf) provided from Drexel University's CS451 Software Engineering class.
  
  * [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
  
@@ -40,11 +44,10 @@ Don't try to read everything all at once. Spend 2 years reading and applying the
  
  * [The Inmates Are Running the Asylum](https://www.amazon.com/Inmates-Are-Running-Asylum-Products/dp/0672326140)
  
- * [The Joel Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
- 
 
 ### Soft Skills
 
+ * [The Joel Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
  * [Death By Meeting](https://www.amazon.com/Death-Meeting-Leadership-Solving-Business/dp/0787968056)
  * [The Five Dysfunctions of a Team](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756/ref=pd_lpo_sbs_14_img_0?_encoding=UTF8&psc=1&refRID=QCSQEZBR0AEYNH4HY69Y)
  * [The Effective Executive](https://www.amazon.com/Effective-Executive-Definitive-Harperbusiness-Essentials/dp/0060833459/ref=pd_lpo_sbs_14_img_0?_encoding=UTF8&psc=1&refRID=GCZ4A806EVYZ2MQ54W32)
